@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/Staravoy/goit-react-hw-01-components/static/css/main.7acaea2f.css",
-    "main.js": "/Staravoy/goit-react-hw-01-components/static/js/main.07d3183d.js",
+    "main.css": "/Staravoy/goit-react-hw-01-components/static/css/main.0f713f20.css",
+    "main.js": "/Staravoy/goit-react-hw-01-components/static/js/main.8ed4a45e.js",
     "index.html": "/Staravoy/goit-react-hw-01-components/index.html",
-    "main.7acaea2f.css.map": "/Staravoy/goit-react-hw-01-components/static/css/main.7acaea2f.css.map",
-    "main.07d3183d.js.map": "/Staravoy/goit-react-hw-01-components/static/js/main.07d3183d.js.map"
+    "main.0f713f20.css.map": "/Staravoy/goit-react-hw-01-components/static/css/main.0f713f20.css.map",
+    "main.8ed4a45e.js.map": "/Staravoy/goit-react-hw-01-components/static/js/main.8ed4a45e.js.map"
   },
   "entrypoints": [
-    "static/css/main.7acaea2f.css",
-    "static/js/main.07d3183d.js"
+    "static/css/main.0f713f20.css",
+    "static/js/main.8ed4a45e.js"
   ]
 }
